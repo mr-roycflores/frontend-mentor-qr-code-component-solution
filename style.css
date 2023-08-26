@@ -10,7 +10,7 @@ body {
     font-family: "Outfit";
 }
 
-.qr-card {
+.card-container {
     padding: 15px;
     max-width: 290px;
     background-color: white;
@@ -35,15 +35,12 @@ p {
     margin: 20px 15px 20px;
 }
 
-footer {
-    position: fixed;
-    bottom: 15px;
-}
-
 .attribution {
     font-size: 11px;
     text-align: center;
     font-family: "Outfit";
+    position: fixed;
+    bottom: 15px;
 }
 
 /* Text styles on links */
