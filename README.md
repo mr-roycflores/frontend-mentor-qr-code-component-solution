@@ -21,8 +21,8 @@ This is my attempt at recreating the QR code component.
 
 ### Screenshot
 
-![Mobile Preview](./images/screenshot-mobile.jpg)
-![Desktop Preview](./images/screenshot-desktop.jpg)
+![Mobile Preview](./images/screenshot-mobile.jpeg)
+![Desktop Preview](./images/screenshot-desktop.jpeg)
 
 ### Links
 
