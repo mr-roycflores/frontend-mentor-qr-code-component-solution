@@ -43,20 +43,17 @@ p {
     bottom: 15px;
 }
 
-/* Text styles on links */
 .attribution a {
-    color: hsl(228, 45%, 44%);
     text-decoration: none;
-    border: 1px solid rgba(0,0,0,0);
+    color: hsl(228, 45%, 44%);
 }
 
-/* Hover effects on links */
 .attribution a:hover {
-    border: 1px solid hsl(228, 45%, 64%);
+    background-color: hsl(228, 45%, 49%);
+    color: hsl(0, 0%, 100%);
 }
 
-/* Onclick effects on links */
 .attribution a:active {
-    background-color: hsl(228, 45%, 64%);
+    background-color: hsl(228, 45%, 34%);
     color: white;
 }
